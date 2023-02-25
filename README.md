@@ -1,5 +1,5 @@
 ## Face-Login
-Face login using Open CV Python
+Face login using Open CV Python and Flask framework
 
 
 
