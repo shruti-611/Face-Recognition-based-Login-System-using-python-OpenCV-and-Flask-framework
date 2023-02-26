@@ -1,5 +1,5 @@
 """
-@author: Santhosh R
+$hruti Gujar
 """
 
 import cv2, os
